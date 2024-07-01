@@ -79,4 +79,4 @@ Benefits
 Conclusion
 ----------
 
-In conclusion, moving "bad" components into a separate microservice is a viable solution for dealing with it in your backend application. This approach allows you to keep your application up to date while still maintaining such components. However, it's important to carefully evaluate whether this solution will work for you and consider any potential drawbacks or limitations before proceeding. And for my point of view, this is one of the justified applications of microservices.
+In conclusion, moving "bad" components into a separate microservice is a viable solution for dealing with it in your backend application. This allows you to keep your application up to date while still maintaining such components. However, it's important to evaluate whether this solution will work for you and consider any potential drawbacks or limitations before proceeding. And for my point of view, this is one of the justified applications of microservices, at least as a temporary solution.
